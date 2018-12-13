@@ -21,3 +21,4 @@ Type a / and the username after the IP. For example, to get the follower tree fo
 
 `127.0.0.1:5000/CavvvApps`
 
+To close the program, go back to the command prompt and exit out (Ctrl+C)
